@@ -1,0 +1,12 @@
+**/.metadata
+**/.settings
+**/.classpath
+**/.project
+**/target/**
+**~
+*.bak
+.brackets.json
+.vlt
+.DS_Store
+*.swp
+**/node_modules/
